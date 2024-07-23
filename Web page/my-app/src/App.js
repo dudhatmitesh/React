@@ -15,9 +15,9 @@ function App() {
       <Navbar />
       <Hero />
       <Results />
-      <Seo />
+      <Seo/>
       <Boost />
-      <Scientific />
+      <Scientific/>
       <Colorlib/>
       <Footer/>
     </div>
