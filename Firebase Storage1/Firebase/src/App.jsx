@@ -12,7 +12,6 @@ export default function App() {
         <Route path='/' Component={Signup}></Route>
         <Route path='/login' Component={Login}></Route>
         <Route path='/dashboard' Component={Dashboard}></Route>
-
       </Routes>
       </BrowserRouter>
     </div>
